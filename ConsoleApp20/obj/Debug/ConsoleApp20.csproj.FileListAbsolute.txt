@@ -1,0 +1,7 @@
+C:\Users\plan5\Source\Repos\Clase2904\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\plan5\Source\Repos\Clase2904\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\plan5\Source\Repos\Clase2904\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Users\plan5\Source\Repos\Clase2904\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\plan5\Source\Repos\Clase2904\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\plan5\Source\Repos\Clase2904\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\plan5\Source\Repos\Clase2904\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
