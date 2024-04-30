@@ -10,8 +10,11 @@ namespace ConsoleApp20
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo!");
+            Console.WriteLine("Ingrese su Nombre:");
+            string nombre = Console.ReadLine();
+            Console.WriteLine($"Hola {nombre}!");
             Console.ReadKey();
+
         }
     }
 }
